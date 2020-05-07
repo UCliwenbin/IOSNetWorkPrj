@@ -1,2 +1,2 @@
-# IOSNetWorkPrj
-IOS中网络库的使用，NSURLSession
+# NSURLSessionDemo
+研究NSURLSession网络的demo
